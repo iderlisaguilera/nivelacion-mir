@@ -1,0 +1,10 @@
+1. paso 1
+2. paso 2
+3. paso 3
+4. paso 4
+5. paso 5
+6. paso 6
+7. paso 7
+8. paso 8
+9. paso 9
+10. paso 10
