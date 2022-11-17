@@ -22,6 +22,8 @@ input {
     width: 30%;
     margin-left: 70%;
 }
-@media (min-width: 500px) {
-    width: 100%;
+@media (max-width: 500px) {
+    form {
+        width: 100%;
+    }
 }
