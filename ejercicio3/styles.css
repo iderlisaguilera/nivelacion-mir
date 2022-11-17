@@ -1,0 +1,27 @@
+form {
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 0 auto;
+    background: linear-gradient(#bd09b7, #6b4cf5) ;
+    color: white;
+    box-shadow: 2px 2px 3px 1px black;
+}
+.margen {
+    padding: 7px;
+}
+input {
+    padding: 7px;
+    width: 100%;
+}
+#terminos {
+    width: 5%;
+}
+#boton{
+    padding: 5px 15px 5 px 15 px;
+    width: 30%;
+    margin-left: 70%;
+}
+@media (min-width: 500px) {
+    width: 100%;
+}

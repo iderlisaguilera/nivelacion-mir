@@ -9,5 +9,34 @@
 </head>
 <body>
     
+    <div>
+        <form>
+            <h1>Login</h1>
+            <div class="margen">
+                <label for="email">Email</label>
+                <br/>
+                <input type="email" id="email" name="email" />
+            </div>
+            <div class="margen">
+                <label for="password">Password</label>
+                <br/>
+                <input type="password" id="password" name="password" />
+            </div>
+            <div class="margen">
+                <label for="genero">Género</label>
+                <br/>
+                <select name="genero">
+                    <option value="" disabled selected>Seleccione un Género</option>
+                    <option value="masculino">Masculino</option>
+                    <option value="femenino">Femenino</option>
+                </select>
+            </div>
+            <div class="margen">
+                    <input type="checkbox" id="terminos" name="terminos"  />
+                    <label for="terminos">Acepto los términos</label>
+            </div>
+                <input id="boton" type="submit" value="Ingresar" />
+        </form>
+    </div>
 </body>
 </html>
